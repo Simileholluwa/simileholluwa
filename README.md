@@ -1,7 +1,7 @@
-[![Tosin's GitHub Banner](./banner.png)
+![Tosin's GitHub Banner](./banner.png)
 
 # Hi 👋, I'm Oluwatosin
-<h6 align="right">I’m a Self-Taught Fullstack Web and Mobile Developer equipped with latest techniques of Developing and Designing responsive, beautiful and interactive web and mobile appliccations. I am currently studying for a B. Tech degree in Electrical and Computer Engineering.</h6>
+<h6 align="left">I’m a Self-Taught Fullstack Web and Mobile Developer equipped with latest techniques of Developing and Designing responsive, beautiful and interactive web and mobile appliccations. I am currently studying for a B. Tech degree in Electrical and Computer Engineering.</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simileholluwa&label=Profile%20views&color=0e75b6&style=flat" alt="simileholluwa" /> </p>
 
@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/simileholluwa" target="blank"><img src="https://img.shields.io/twitter/follow/simileholluwa?logo=twitter&style=for-the-badge" alt="simileholluwa" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simileholluwa" alt="simileholluwa" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=simileholluwa&theme=flat" alt="simileholluwa" /></a> </p>
 
 
 - 🔭 I’m currently working on **A Start-up**
