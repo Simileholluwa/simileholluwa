@@ -10,9 +10,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=1CA2F1)](https://instagram.com/simileholluwa)
 
 
-<br>
-<p align="center"> <a href= "https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simileholluwa&theme=flat" alt="simileholluwa"/></a> </p>
-<br>
+<p align="left"> <a href= "https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simileholluwa&theme=flat" alt="simileholluwa"/></a> </p>
 
 - 🔭 I’m currently working on **A Start-up**
 
