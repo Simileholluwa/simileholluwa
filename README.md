@@ -35,23 +35,23 @@
 <br>
 
 <a href="https://github.com/simileholluwa/flutter_apps_development">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=simileholluwa&repo=flutter_apps_development&title_color=000000&text_color=565756&icon_color=4AB197&bg_color=ffffff" />
+  <img align="center" style="margin:0.7rem" src="https://github-readme-stats.vercel.app/api/pin/?username=simileholluwa&repo=flutter_apps_development&title_color=000000&text_color=565756&icon_color=4AB197&bg_color=ffffff" />
 </a>
 
 <br>
 
 <a href="https://github.com/simileholluwa/html_css_js_projects">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=simileholluwa&repo=html_css_js_projects&title_color=000000&text_color=565756&icon_color=4AB197&bg_color=ffffff" />
+  <img align="center" style="margin:0.7rem" src="https://github-readme-stats.vercel.app/api/pin/?username=simileholluwa&repo=html_css_js_projects&title_color=000000&text_color=565756&icon_color=4AB197&bg_color=ffffff" />
 </a>
 
 <br>
 
 <a href="https://github.com/simileholluwa/react_web_projects">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=simileholluwa&repo=react_web_projects&title_color=000000&text_color=565756&icon_color=4AB197&bg_color=ffffff" />
+  <img align="center" style="margin:0.7rem" src="https://github-readme-stats.vercel.app/api/pin/?username=simileholluwa&repo=react_web_projects&title_color=000000&text_color=565756&icon_color=4AB197&bg_color=ffffff" />
 </a>
 
 <a href="https://github.com/simileholluwa/go_lang">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=simileholluwa&repo=go_lang&title_color=000000&text_color=565756&icon_color=4AB197&bg_color=ffffff" />
+  <img align="center" style="margin:0.7rem" src="https://github-readme-stats.vercel.app/api/pin/?username=simileholluwa&repo=go_lang&title_color=000000&text_color=565756&icon_color=4AB197&bg_color=ffffff" />
 </a>
 
 <br>
