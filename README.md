@@ -1,17 +1,16 @@
 ![Tosin's GitHub Banner](./banner.png)
 
-## Hi 👋, I'm Oluwatosin
+<h2 align="center"> Hi 👋, I'm Oluwatosin </h2>
 <h6 align="left">I’m a Self-Taught Fullstack Web and Mobile Developer equipped with latest techniques of Developing and Designing responsive, beautiful and interactive web and mobile appliccations. I am currently studying for a B. Tech degree in Electrical and Computer Engineering.</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simileholluwa&label=Profile%20views&color=0e75b6&style=flat" alt="simileholluwa" /> 
-
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ajanaku-oluwatosin-ezekiel-243133200/)
-
-[![Instagram Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=instagram&logoColor=white&color=1CA2F1)](https://instagram.com/simileholluwa)
-
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/simileholluwa)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=1CA2F1)](https://instagram.com/simileholluwa)
 </p>
+
 <br>
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=simileholluwa&theme=flat" alt="simileholluwa" /></a> </p>
+<p align="center"> <a href= "https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simileholluwa&theme=flat" alt="simileholluwa"/></a> </p>
 <br>
 
 - 🔭 I’m currently working on **A Start-up**
