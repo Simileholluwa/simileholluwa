@@ -1,4 +1,5 @@
-![Tosin's GitHub Banner](./banner.png)
+
+<img src="./banner.png" alt="My Banner" width="500">
 
 <h2 align="center"> Hi 👋, I'm Oluwatosin </h2>
 <h3 align="left">I’m a Self-Taught Fullstack Web and Mobile Developer equipped with latest techniques of Developing and Designing responsive, beautiful and interactive web and mobile appliccations. I am currently studying for a B. Tech degree in Electrical and Computer Engineering.</h6>
@@ -9,8 +10,6 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/simileholluwa)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=1CA2F1)](https://instagram.com/simileholluwa)
 
-
-<p align="left"> <a href= "https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simileholluwa&theme=flat" alt="simileholluwa"/></a> </p>
 
 - 🔭 I’m currently working on **A Start-up**
 
