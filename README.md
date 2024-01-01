@@ -3,9 +3,9 @@
 
 <h2 align="center"> Hi 👋, I'm Oluwatosin </h2>
 <br>
-## 📫 Summary
+<h2 align="left"> 📫 Summary </h2>
 
-<h3 align="left">I’m a Self-Taught Fullstack Web and Mobile Developer equipped with latest techniques of Developing and Designing responsive, beautiful and interactive web and mobile appliccations. I am currently studying for a Bachelor of Engineering degree in Electrical and Computer Engineering.</h6>
+<h4 align="left">I’m a Self-Taught Fullstack Web and Mobile Developer equipped with latest techniques of Developing and Designing responsive, beautiful and interactive web and mobile appliccations. I am currently studying for a Bachelor of Engineering degree in Electrical and Computer Engineering.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simileholluwa&label=Profile%20views&color=0e75b6&style=flat" alt="simileholluwa" /></p>
 
@@ -33,8 +33,8 @@
 - 🤝 I develop and design beautiful and responsive applications using flutter.
 
 <br>
-## 💼 Languages and Tools
-
+<h2 align="left"> 💼 Languages and Tools </h2>
+<br>
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=4AB197)
