@@ -1,7 +1,7 @@
 ![Tosin's GitHub Banner](./banner.png)
 
 <h2 align="center"> Hi 👋, I'm Oluwatosin </h2>
-<h6 align="left">I’m a Self-Taught Fullstack Web and Mobile Developer equipped with latest techniques of Developing and Designing responsive, beautiful and interactive web and mobile appliccations. I am currently studying for a B. Tech degree in Electrical and Computer Engineering.</h6>
+<h3 align="left">I’m a Self-Taught Fullstack Web and Mobile Developer equipped with latest techniques of Developing and Designing responsive, beautiful and interactive web and mobile appliccations. I am currently studying for a B. Tech degree in Electrical and Computer Engineering.</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simileholluwa&label=Profile%20views&color=0e75b6&style=flat" alt="simileholluwa" /></p>
 
@@ -29,32 +29,6 @@
 - 📣 Check out **[my personal portfolio website](https://simileholluwa.github.io)**
 
 <br>
-
-## 📌 Pinned Repositories
-
-<br>
-
-<a href="https://github.com/simileholluwa/flutter_apps_development">
-  <img align="center" style="margin:0.7rem" src="https://github-readme-stats.vercel.app/api/pin/?username=simileholluwa&repo=flutter_apps_development&title_color=000000&text_color=565756&icon_color=4AB197&bg_color=ffffff" />
-</a>
-
-<br>
-
-<a href="https://github.com/simileholluwa/html_css_js_projects">
-  <img align="center" style="margin:0.7rem" src="https://github-readme-stats.vercel.app/api/pin/?username=simileholluwa&repo=html_css_js_projects&title_color=000000&text_color=565756&icon_color=4AB197&bg_color=ffffff" />
-</a>
-
-<br>
-
-<a href="https://github.com/simileholluwa/react_web_projects">
-  <img align="center" style="margin:0.7rem" src="https://github-readme-stats.vercel.app/api/pin/?username=simileholluwa&repo=react_web_projects&title_color=000000&text_color=565756&icon_color=4AB197&bg_color=ffffff" />
-</a>
-
-<a href="https://github.com/simileholluwa/go_lang">
-  <img align="center" style="margin:0.7rem" src="https://github-readme-stats.vercel.app/api/pin/?username=simileholluwa&repo=go_lang&title_color=000000&text_color=565756&icon_color=4AB197&bg_color=ffffff" />
-</a>
-
-<br>
 <br>
 
 ## 💼 Languages and Tools
@@ -69,8 +43,3 @@
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simileholluwa&show_icons=true&locale=en&layout=compact" alt="simileholluwa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simileholluwa&show_icons=true&locale=en" alt="simileholluwa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simileholluwa&" alt="simileholluwa" /></p>
