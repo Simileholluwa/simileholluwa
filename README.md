@@ -1,8 +1,8 @@
 
-<img src="./banner.png" alt="My Banner" width="200" style="display: block;margin-left: auto;margin-right: auto;width: 50%">
+<p align="center"><img src="./banner.png" alt="My Banner" width="200"/></p>
 
 <h2 align="center"> Hi 👋, I'm Oluwatosin </h2>
-<h3 align="left">I’m a Self-Taught Fullstack Web and Mobile Developer equipped with latest techniques of Developing and Designing responsive, beautiful and interactive web and mobile appliccations. I am currently studying for a B. Tech degree in Electrical and Computer Engineering.</h6>
+<h3 align="left">I’m a Self-Taught Fullstack Web and Mobile Developer equipped with latest techniques of Developing and Designing responsive, beautiful and interactive web and mobile appliccations. I am currently studying for a Bachelor of Engineering degree in Electrical and Computer Engineering.</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simileholluwa&label=Profile%20views&color=0e75b6&style=flat" alt="simileholluwa" /></p>
 
